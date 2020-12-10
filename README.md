@@ -23,7 +23,7 @@ Arguments:\
 number of bodies\
 number of iterations\
 dt\
-number of openmp threads per rank\
+number of openmp threads per rank
 
 can also run serial version like this:
 	./nbody_serial 3000 400 0.2 4
