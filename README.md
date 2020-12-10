@@ -19,7 +19,7 @@ make
 ## To run:
 mpirun -n 4 ./nbody_parallel 3000 400 0.2 4
 
-Arguments: <number of bodies> <number of iterations> <dt> <number of openmp threads per rank>
+Arguments: &ltnumber of bodies&gt &ltnumber of iterations&gt &ltdt&gt &ltnumber of openmp threads per rank&gt
 
 can also run serial version like this:
 	./nbody_serial 3000 400 0.2 4
