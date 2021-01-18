@@ -3,7 +3,7 @@ n-body gravity simulation using the MPI framework
 
 Below video was generated on Blue Gene computer at Argonne lab using 100000 bodies:
 
-!(gif/nbody_simulation.gif)
+![Alt Text](gif/nbody_simulation.gif)
 
 ## Dependencies
 MPI and OpenMP
